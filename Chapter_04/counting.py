@@ -21,5 +21,5 @@ print(f"最小值: {min_number}")
 print(f"最大值: {max_number}")  
 print(f"总和: {sum_numbers}")
 
-# 作者：Kris
+# 作者：Enzo
 # 日期：2026-1-11

@@ -19,5 +19,5 @@ while True:
     else:
         print(f"  Adding {topping} to your pizza.")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-02-04

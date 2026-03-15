@@ -63,5 +63,5 @@ if user not in banned_users:
 print(f"Check result (user not in banned_users): {user not in banned_users}")
 
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-1-12

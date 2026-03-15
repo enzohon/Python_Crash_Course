@@ -22,5 +22,5 @@ for pet in pets:
     print(f"\nType of animal: {pet['kind'].title()}")
     print(f"Owner's name: {pet['owner'].title()}")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-01-13

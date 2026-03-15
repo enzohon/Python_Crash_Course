@@ -12,5 +12,5 @@ for pizza in pizzas:
 # 3. 在循环结束后添加一行代码 (注意没有缩进)
 print("I really love pizza!")
 
-# 作者：Kris
+# 作者：Enzo
 # 日期：2026-1-9

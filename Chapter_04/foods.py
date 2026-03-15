@@ -23,5 +23,5 @@ print("\nMy friend's favorite foods are:")
 for food in friend_foods:
     print(food)
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-1-11

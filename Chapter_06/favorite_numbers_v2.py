@@ -22,5 +22,5 @@ for name, numbers in favorite_numbers.items():
     for number in numbers:
         print(f"  > {number}")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-01-13

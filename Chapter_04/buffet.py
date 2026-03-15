@@ -21,5 +21,5 @@ print("Modified menu:")
 for food in foods:
     print(food)
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-1-12

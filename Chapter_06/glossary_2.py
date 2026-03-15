@@ -26,5 +26,5 @@ for word, meaning in glossary.items():
     print(f"\nWord: {word.title()}")
     print(f"Meaning: {meaning}")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-01-13

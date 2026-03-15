@@ -37,5 +37,5 @@ for city, info in cities.items():
     print(f"\tPopulation: {pop:,} ({size_label})") # 使用 :, 添加千位分隔符
     print(f"\tFun Fact: {info['fact']}")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-01-13

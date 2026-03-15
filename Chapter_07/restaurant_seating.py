@@ -16,5 +16,5 @@ if number > 8:
 else:
     print("Your table is ready!")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-02-04

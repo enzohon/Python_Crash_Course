@@ -28,5 +28,5 @@ for coder in coders_to_poll:
     else:
         print(f"{coder.title()}, please verify your email and take the poll!")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-01-13

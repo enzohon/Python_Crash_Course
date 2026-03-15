@@ -24,5 +24,5 @@ print(f"Last name: {person['last_name']}")
 print(f"Age: {person['age']}")
 print(f"City: {person['city']}")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-01-13

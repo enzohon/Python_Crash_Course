@@ -12,5 +12,5 @@ for animal in animals:
 # 3. 在循环结束后添加一行代码 (注意没有缩进)
 print("Any of these animals would make a wonderful pet!")
 
-# 作者：Kris
+# 作者：Enzo
 # 日期：2026-1-9

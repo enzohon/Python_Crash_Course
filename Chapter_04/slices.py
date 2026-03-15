@@ -23,5 +23,5 @@ print(players[1:4])
 print("\nThe last three items in the list are:")
 print(players[-3:])
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-1-11

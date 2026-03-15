@@ -16,5 +16,5 @@ if number % 10 == 0:
 else:
     print(f"{number} is not a multiple of 10.")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-02-04

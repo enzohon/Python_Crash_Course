@@ -12,5 +12,5 @@ threes = list(range(3, 31, 3))
 for number in threes:
     print(number)
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-1-11

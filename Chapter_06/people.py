@@ -40,5 +40,5 @@ for person in people:
     print(f"\tAge: {person['age']}")
     print(f"\tCity: {person['city'].title()}")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-01-13

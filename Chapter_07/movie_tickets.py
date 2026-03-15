@@ -27,5 +27,5 @@ while True:
     else:
         print("  Your ticket is $15.")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-02-04

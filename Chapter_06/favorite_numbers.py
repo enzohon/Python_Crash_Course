@@ -31,5 +31,5 @@ print(f"Phil's favorite number is {favorite_numbers['phil']}.")
 # 6. 访问并打印 Alice 的数据
 print(f"Alice's favorite number is {favorite_numbers['alice']}.")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-01-13

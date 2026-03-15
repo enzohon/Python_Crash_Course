@@ -41,5 +41,5 @@ for city, city_info in cities.items():
     print(f"\tPopulation: {population}")
     print(f"\tFact: {fact}")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-01-13

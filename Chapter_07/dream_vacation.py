@@ -30,5 +30,5 @@ print("\n--- Poll Results ---")
 for name, place in responses.items():
     print(f"{name.title()} would like to visit {place.title()}.")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-02-04

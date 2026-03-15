@@ -30,5 +30,5 @@ print("\n=== The Countries ===")
 for country in rivers.values():
     print(country.title())
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-01-13

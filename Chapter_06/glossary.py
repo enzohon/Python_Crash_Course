@@ -31,5 +31,5 @@ print(f"\nLoop: \n{glossary['loop']}")
 # 6. 打印术语 'dictionary'
 print(f"\nDictionary: \n{glossary['dictionary']}")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-01-13

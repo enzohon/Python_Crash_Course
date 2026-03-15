@@ -31,5 +31,5 @@ print("\n--- The following sandwiches have been made: ---")
 for sandwich in finished_sandwiches:
     print(f" - {sandwich.title()} sandwich")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-02-04

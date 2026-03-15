@@ -12,5 +12,5 @@ car = input("What kind of rental car would you like? ")
 # 2. 打印消息
 print(f"Let me see if I can find you a {car.title()}.")
 
-# 作者: Kris
+# 作者: Enzo
 # 日期: 2026-02-04
